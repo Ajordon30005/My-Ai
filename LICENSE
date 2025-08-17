@@ -1,24 +1,25 @@
-This is free and unencumbered software released into the public domain.
+Business Source License 1.1
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Parameters
+Licensor: Anthony Jordon
+Licensed Work: (GUHCT-AI: Gaia)
+Additional Use Grant: You may use the Software for personal, academic, research, and other non-production, non-commercial purposes without charge.
+Change Date: 4 Years (starting on publishing date) 
+Change License: GNU General Public License v2.0
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Terms
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-production use of the Software, provided that you:
+1. Provide attribution to the Licensor in any use of the Software.
+2. Do not use the Software in a production environment, or for commercial purposes, without obtaining a commercial license from the Licensor.
 
-For more information, please refer to <https://unlicense.org>
+For clarity:
+- "Non-production use" includes evaluation, development, personal projects, research, education, and demonstration.
+- "Commercial use" includes offering the Software or any derivative as part of a service, product, or monetized system (including SaaS, resale, or business applications).
+
+On the Change Date, the use restrictions of this license will expire, and the Software will be made available under the Change License as stated above.
+
+This License does not grant you any trademark rights, patent rights, or rights to use the Licensor’s name, logo, or branding.
+
+Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
